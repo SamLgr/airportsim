@@ -1,3 +1,0 @@
-/home/lander/Documents/Software engineering/airportsim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lander/Documents/Software engineering/airportsim/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lander/Documents/Software engineering/airportsim/cmake-build-debug/CMakeFiles/airportsim.dir
